@@ -1,6 +1,6 @@
 package cam.ez;
 
-public class printLines
+public class PrintLines
 {
 
     public static void main(String[] args)

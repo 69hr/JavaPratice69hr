@@ -1,6 +1,6 @@
 package cam.ez;
 
-public class intVariables
+public class IntVariables
 {
     public static void main(String[] args)
     {

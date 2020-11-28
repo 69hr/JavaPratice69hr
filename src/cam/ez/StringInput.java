@@ -2,7 +2,7 @@ package cam.ez;
 
 import java.util.Scanner;
 
-public class stringInput
+public class StringInput
 {
     public static void main(String[] args){
 

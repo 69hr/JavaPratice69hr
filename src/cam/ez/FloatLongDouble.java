@@ -1,6 +1,6 @@
 package cam.ez;
 
-public class floatLongDouble
+public class FloatLongDouble
 {
     public static void main(String[] args)
     {

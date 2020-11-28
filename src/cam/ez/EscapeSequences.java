@@ -1,6 +1,6 @@
 package cam.ez;
 
-public class escapeSequences
+public class EscapeSequences
 {
     public static void main(String[] args)
     {
