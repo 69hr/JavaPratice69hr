@@ -1,5 +1,5 @@
 package cam.ez;
-
+@SuppressWarnings("ALL")
 public class IntVariables
 {
     public static void main(String[] args)

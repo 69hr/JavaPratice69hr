@@ -5,7 +5,6 @@ public class ComparisonOperators {
     {
         System.out.println("69hr on top");
         //useless^
-
     }
 
 }

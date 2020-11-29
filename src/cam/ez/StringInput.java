@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class StringInput
 {
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
 
         String pvp = "69hr is a pvp god";
 

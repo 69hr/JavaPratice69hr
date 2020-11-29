@@ -1,9 +1,10 @@
 package cam.ez;
-
+@SuppressWarnings("ALL")
 public class Booleans
 {
     public static void main(String[] args)
     {
+
         testProgram();
         //you will always need to put this if you are making a new class...
 

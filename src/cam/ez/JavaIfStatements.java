@@ -1,7 +1,7 @@
 package cam.ez;
 
 import java.util.Scanner;
-
+@SuppressWarnings("ALL")
 public class JavaIfStatements
 {
     public static void main(String[] args)
