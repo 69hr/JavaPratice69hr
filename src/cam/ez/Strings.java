@@ -8,7 +8,7 @@ public class Strings
 
         String inGameName = "69hr";
 
-        System.out.println(inGameName);
+        System.out.print(inGameName);
         //this will print out hello big player 69hr
 
     }
